@@ -1,0 +1,8 @@
+g++ -std=c++11 -o prog.out -pthread *.cpp
+./prog.out
+
+to use nohup:
+nohup ./prog.out &
+
+to check nohup progress:
+tail -f nohup.out
