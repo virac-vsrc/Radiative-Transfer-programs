@@ -1,3 +1,8 @@
+/**
+ * @file      main.cpp
+ * @authors   Juris Freimanis and Romans Pezenkovs
+ */
+
 #include <iostream>
 #include <iomanip>
 #include "dust_cloud.h"
