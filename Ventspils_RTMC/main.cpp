@@ -242,7 +242,7 @@ int main()
 
     CCD_matr *matr_pointer = new CCD_matr;
     
-    int photon_pack_q = 10000000; // how many photon packets will be scattered by programm
+    int photon_pack_q = 1000000000; // how many photon packets will be scattered by programm
 
     //photon_packages_traveling( 0 ,array_Vol , matr_pointer, star_arr, outer_Radius,
     //                          photon_pack_q, 1 ); // only one thread, no multithreading
